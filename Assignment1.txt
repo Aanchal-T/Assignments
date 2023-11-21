@@ -1,0 +1,48 @@
+1) <!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>
+            Custom Title
+        </title>
+    </head>
+    <body>
+        <h2>HTML defines the content and structure of your website</h2>
+    </body>
+</html>
+
+___________________________________________________________________________________________________________________________________
+
+2) Comments stops the rendering of the content.  To use comments we use "ctrl+/".
+
+____________________________________________________________________________________________________________________________________
+
+3) <!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>
+            Custom Title
+        </title>
+    </head>
+    <body>
+        <h1>This is a heading</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quisquam rem numquam minus, libero hic ullam reiciendis consequuntur. Soluta similique, nobis nam eius eveniet suscipit voluptas tempore maiores numquam rerum mollitia dolor facere minima vitae assumenda ab necessitatibus deleniti tenetur sunt corrupti repellat ipsam adipisci. Quisquam porro repellat nesciunt alias.</p>
+        <hr>
+        <h2>This is a second heading</h2>
+        <p>(1)Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias dolorem assumenda debitis suscipit tempora, quae totam. Animi exercitationem delectus, maxime nihil sunt, rem veritatis aliquam eos tempore soluta similique dolorum atque! Illo, <br>(2)dolorum dolores! Debitis magni laudantium ipsa fuga ratione ea consequatur, <br> (3)sequi a nostrum laboriosam voluptatum quidem dicta totam natus quaerat accusantium temporibus voluptas ut modi aperiam, odit molestias.</p>
+    </body>
+</html>
+
+____________________________________________________________________________________________________________________________________________________
+
+4) TAG: Tags are used for writing an effective HTML code. HTML contains tags for each function.Tags are made of opening and closing diamond brackets such as: <HTML>,<BODY>. Mostly tags are used with opening and closing tag.
+Closing tags are a bit different from opening tags. 
+Opening tags are made up of opening and closing diamond brackets with the tag name in between. Whereas Closing tags are made up by opening diamond bracket followed by / and the tag name and later on by a closing diamond bracket.
+
+ELEMENT: An element is made up of an opening and a closing tag. such as: <body></body> will be known as body element.
+
+__________________________________________________________________________________________________________________________________________________________
+
+5) Doctype declarations are used to tell the web that which version of HTML is being used. such as: <Doctype HTML>.
+
+__________________________________________________________________________________________________________________________________________________________
+
